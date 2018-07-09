@@ -1,0 +1,19 @@
+body{
+	background:black;
+	color:yellow;
+	text-align: center;
+	background:url('https://media.giphy.com/media/9E7kUhnT9eDok/giphy.gif');
+	background-size: cover;
+	background-attachment: 
+}
+
+
+main{
+	background:rgba(0,0,0,.4);
+	height: 100vh;
+	padding: 10%;
+}
+
+h1{
+	font-size: 700%;
+}
